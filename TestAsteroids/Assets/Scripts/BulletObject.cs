@@ -19,11 +19,12 @@ public class BulletObject : MonoBehaviour, IPooledObject
     {
         
     }
-
-    void OnCollisionEnter(Collision collision)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        Debug.Log("Boom+_"+ collision.collider.tag);      
+        gameObject.SetActive(false);
     }
+   
+
     IEnumerator LifeTimeCoroutine()
     {
         yield return new WaitForSeconds(1.5f);
