@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: b07ae4977dbaaac4bb5d6e1e136f1335
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4675981953944034537
+    second: IMGBIN_particle-system-texture-mapping-animation-2d-computer-graphics-png_G0JdRDez_0
+  - first:
+      213: -853565459922003917
+    second: IMGBIN_particle-system-texture-mapping-animation-2d-computer-graphics-png_G0JdRDez_1
+  - first:
+      213: -7151470833542639706
+    second: IMGBIN_particle-system-texture-mapping-animation-2d-computer-graphics-png_G0JdRDez_2
+  - first:
+      213: -1556777979434019110
+    second: IMGBIN_particle-system-texture-mapping-animation-2d-computer-graphics-png_G0JdRDez_3
+  - first:
+      213: -8926004633668594616
+    second: IMGBIN_particle-system-texture-mapping-animation-2d-computer-graphics-png_G0JdRDez_4
+  - first:
+      213: -5178764410731941899
+    second: IMGBIN_particle-system-texture-mapping-animation-2d-computer-graphics-png_G0JdRDez_5
+  - first:
+      213: 3998332213638991166
+    second: IMGBIN_particle-system-texture-mapping-animation-2d-computer-graphics-png_G0JdRDez_6
+  - first:
+      213: -4988572787292505723
+    second: IMGBIN_particle-system-texture-mapping-animation-2d-computer-graphics-png_G0JdRDez_7
+  - first:
+      213: -7395760618052852899
+    second: IMGBIN_particle-system-texture-mapping-animation-2d-computer-graphics-png_G0JdRDez_8
+  - first:
+      213: -7536326799159729101
+    second: IMGBIN_particle-system-texture-mapping-animation-2d-computer-graphics-png_G0JdRDez_9
+  - first:
+      213: -1262110317748310814
+    second: IMGBIN_particle-system-texture-mapping-animation-2d-computer-graphics-png_G0JdRDez_10
+  - first:
+      213: -8572374688261881833
+    second: IMGBIN_particle-system-texture-mapping-animation-2d-computer-graphics-png_G0JdRDez_11
+  - first:
+      213: -1312673694652172933
+    second: IMGBIN_particle-system-texture-mapping-animation-2d-computer-graphics-png_G0JdRDez_12
+  - first:
+      213: -2241757627873676315
+    second: IMGBIN_particle-system-texture-mapping-animation-2d-computer-graphics-png_G0JdRDez_13
+  - first:
+      213: 7126833904372340306
+    second: IMGBIN_particle-system-texture-mapping-animation-2d-computer-graphics-png_G0JdRDez_14
+  - first:
+      213: 8817645888649040429
+    second: IMGBIN_particle-system-texture-mapping-animation-2d-computer-graphics-png_G0JdRDez_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IMGBIN_particle-system-texture-mapping-animation-2d-computer-graphics-png_G0JdRDez_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 771
+        width: 225
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec98fc00dc64e040800000000000000
+      internalID: 4675981953944034537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMGBIN_particle-system-texture-mapping-animation-2d-computer-graphics-png_G0JdRDez_1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 772
+        width: 223
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3385ec09cb68724f0800000000000000
+      internalID: -853565459922003917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMGBIN_particle-system-texture-mapping-animation-2d-computer-graphics-png_G0JdRDez_2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 773
+        width: 211
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afcf11ca2fd0cc90800000000000000
+      internalID: -7151470833542639706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMGBIN_particle-system-texture-mapping-animation-2d-computer-graphics-png_G0JdRDez_3
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 773
+        width: 211
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad65fa50da6356ae0800000000000000
+      internalID: -1556777979434019110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMGBIN_particle-system-texture-mapping-animation-2d-computer-graphics-png_G0JdRDez_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 515
+        width: 207
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84451b2e316702480800000000000000
+      internalID: -8926004633668594616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMGBIN_particle-system-texture-mapping-animation-2d-computer-graphics-png_G0JdRDez_5
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 517
+        width: 210
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff23eae4355128b0800000000000000
+      internalID: -5178764410731941899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMGBIN_particle-system-texture-mapping-animation-2d-computer-graphics-png_G0JdRDez_6
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 520
+        width: 212
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d04f7d6fdec7730800000000000000
+      internalID: 3998332213638991166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMGBIN_particle-system-texture-mapping-animation-2d-computer-graphics-png_G0JdRDez_7
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 520
+        width: 213
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589ff350b7705cab0800000000000000
+      internalID: -4988572787292505723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMGBIN_particle-system-texture-mapping-animation-2d-computer-graphics-png_G0JdRDez_8
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 263
+        width: 215
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53e22df6eafc5990800000000000000
+      internalID: -7395760618052852899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMGBIN_particle-system-texture-mapping-animation-2d-computer-graphics-png_G0JdRDez_9
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 262
+        width: 208
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334e3d094b6996790800000000000000
+      internalID: -7536326799159729101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMGBIN_particle-system-texture-mapping-animation-2d-computer-graphics-png_G0JdRDez_10
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 262
+        width: 206
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eca14b5a551c7ee0800000000000000
+      internalID: -1262110317748310814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMGBIN_particle-system-texture-mapping-animation-2d-computer-graphics-png_G0JdRDez_11
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 261
+        width: 206
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710c990b3aec80980800000000000000
+      internalID: -8572374688261881833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMGBIN_particle-system-texture-mapping-animation-2d-computer-graphics-png_G0JdRDez_12
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 5
+        width: 205
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75f144ca3278cde0800000000000000
+      internalID: -1312673694652172933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMGBIN_particle-system-texture-mapping-animation-2d-computer-graphics-png_G0JdRDez_13
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 6
+        width: 211
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e33116905da3e0e0800000000000000
+      internalID: -2241757627873676315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMGBIN_particle-system-texture-mapping-animation-2d-computer-graphics-png_G0JdRDez_14
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 5
+        width: 218
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256d25b2da997e260800000000000000
+      internalID: 7126833904372340306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IMGBIN_particle-system-texture-mapping-animation-2d-computer-graphics-png_G0JdRDez_15
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 5
+        width: 223
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d221c14c7329e5a70800000000000000
+      internalID: 8817645888649040429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
